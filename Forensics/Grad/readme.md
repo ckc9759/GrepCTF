@@ -33,7 +33,7 @@ else:
    for i in range(pixels):
       for j in range(0,3):
          if index<bits:
-            #ob100111011
+            #000000
             img_array[i][j]=int(bin(img_array[i][j])[2:-1]+byte_message[index],2)
             index+=1
    

@@ -7,7 +7,7 @@ Once there Was a Beautiful girl In my College but I forgot Her name. she used to
 import numpy as np
 import PIL.Image
 
-message="GVNJ{B1ur_c4u_f3a_lman}"
+message="<<<REDACTED>>>"
 
 image = PIL.Image.open('mem2.png','r')
 width,height=image.size
@@ -42,6 +42,6 @@ result=PIL.Image.fromarray(img_array.astype('uint8'),image.mode)
 result.save('encoded.png')  
 ```
 <p>
-  <img src="https://github.com/ckc1404/GrepCTF/blob/main/Forensics/Grad/encoded.png",width="50%",height="50%">
+  <img src="https://github.com/ckc1404/GrepCTF/blob/main/Forensics/Grad/encoded.png", width="50%",height="50%">
 </p>
 

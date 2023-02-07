@@ -1,4 +1,7 @@
-### Challenge name -
+### Challenge name - Nine Musketeers
+
+Our Captain is missing. He was on a search for new Army Bases, but lost hist path. Can you help him come back !!
+The secret path is hidden in this file !
 
 ```py
 import numpy as np
@@ -27,5 +30,5 @@ output=[chr(x) for x in new_ctext]
 ciphertext='$'.join(output) 
 print(ciphertext)
 
-# r$X$P$Y$E$Q$_$H$Q$p -> ciphertext
+# |$E$B$[$T$D$T$T$B -> ciphertext
 ```

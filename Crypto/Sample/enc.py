@@ -17,7 +17,7 @@ for word in list:
       new_list.append(bin(word).replace("0b",""))
 
 ctext=''.join(new_list)
-key="Chaitanya@"
+key="Musketeer"
 
 new_ctext=[(ord(i)^ord(j)) for i,j in zip(ctext,key)]
 output=[chr(x) for x in new_ctext]

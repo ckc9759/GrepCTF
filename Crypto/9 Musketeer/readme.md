@@ -13,7 +13,7 @@ MDM6JWc3Ul4kLDZvN00lLm11XV42OHFELTc5MjA0PF5dOEAxSU5zJDMncFAlNXJoQ20wZ1tsZDdSZjol
 import numpy as np
 import binascii
 
-message ="856485325862584564"
+message =<<<REDACTED>>>
 key="Musketeer"
 
 list=[message[i:i+2] for i in range (0,len(message),2)]

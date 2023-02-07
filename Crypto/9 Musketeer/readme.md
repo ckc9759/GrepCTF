@@ -40,7 +40,7 @@ for word in new:
 ctext=''.join(new_list)
 
 #print(ctext)
-cipher=[ctext[i:i+36] for i in range(0,len(ctext),36)]
+cipher=[ctext[i:i+(<<<REDACTED>>>) ] for i in range(0,len(ctext),(<<<REDACTED>>>)]
 m1=cipher[0]
 m2=cipher[1]
 #print(m1)

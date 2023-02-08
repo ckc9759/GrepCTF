@@ -1,5 +1,5 @@
 # Infinite sleep
->> quasar-nova 
+> quasar-nova 
 
 ## Description
 I found a weird way to compile a python program into a binary and made it to sleep for minimum 2 days (using the libc `sleep` function) repeatedly. And I made the program to print the flag variable after that.

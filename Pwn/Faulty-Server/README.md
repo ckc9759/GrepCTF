@@ -13,3 +13,6 @@ Use the client application to communicate with the server.
 	Ports are bound to 0.0.0.0 (all interfaces)
 + Client usage:
 	`./client <host> <port>`
+
+## Todo
++ Check this in Ubuntu

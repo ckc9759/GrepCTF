@@ -4,6 +4,8 @@
 
 #### Desc : I pressed shift key 10 times and lost the flag. Can you find my flag. 
 
+Flag format : GREP{}
+
 ```py
 #enc.py
 from random import *

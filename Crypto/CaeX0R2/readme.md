@@ -4,6 +4,8 @@
 
 #### Desc : Ooops, i forgot the shift this time. Can you still figure out my flag.
 
+Flag Format : GREP{}
+
 ```py
 #enc.py
 from random import *

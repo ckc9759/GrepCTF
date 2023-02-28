@@ -2,13 +2,13 @@
 
 ---
 
-#### Desc : Huhhh, finally Sem break ! Time to play some Valorant, but i've misplaced my keys. I Anti-cipated enemies position but he killed me easily:\. Can't find my WASD keys, help help... My rank is going down and down.
+#### Desc : Huhhh, finally Sem break ! Time to play some Valorant, but i've misplaced my keys. I pressed shift walk, still they heard me :/. It isn't Right. Can't find my WASD keys, help help... My rank is going down and down.
 
 MSG :
 
 ```
-Nawc sy maume s^ess ta we ix ortu:eV Bhz $s tme bttaeiy duaù tlg oh^ oiheW R baxt n^w oxeh b/ 10385281 qoaot,
-Ytu wono ao pgap geo'm zloy : hotysx/Bdacm.lotgqeVcamBdacemuna/j/96BVs7kK^bSq¨_sx4VùuWCJeHJ5I$N7V0J7_<QmXTz°EBejia?^sy$hhor$nq
+§ab< sp sa^hu huush oa :u $! oia^:uW Bmp $h omu :toouip jutj tqq omu o$suW £ bt!o !ub a!uh xX 567890+1 
+laaaa< Pa^ bt!o oa zqtp quo_h zqtp Ztio 5 x moozhxXXja,hWlaalquW,asXja,^su!oXjX50B.m°kµu:SgU=sn+.ù^/?JuS%5£i§7.6%7=;Gm
 ```
 
 ![](image.png)

@@ -1,4 +1,4 @@
-# Infinite sleep
+# Infinite sleep (Level I)
 > quasar-nova 
 
 ## Description
@@ -6,10 +6,8 @@ I found a weird way to compile a python program into a binary and made it to sle
 Now, it is your task to figure out how can you leak the flag within the challenge time.
 
 ## Requirements
-+ Python 3
-
-## Todo
-+ Check with other versions of python (python 3.10 and python 3.11)
++ Python 3.9
++ Docker (if needed)
 
 ## Hints
 A lot of game mods (including mods for popular games like GTA SA) work the same way 

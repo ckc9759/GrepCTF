@@ -29,3 +29,7 @@ print("Cipher text:", ct)
 # Cipher text: 9898717456951148133749957106576029659879736707349710770560950848503614119828
 # Seed: REDACTED
 ```
+
+# Solution
+`flag`: `GREP{Brut3D_M3!_f0r_l1f3}`
+`seed`: `1679038148`

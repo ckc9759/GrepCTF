@@ -13,10 +13,10 @@ I'm devastating, more than ever demonstrating
 How to give a motherfuckin' audience a feeling like it's levitating
 Never fading, and I know the haters are forever waiting
 For the day that they can say I fell off, they'll be celebrating
-grepCTFPr4pg0d_em1n3mP
+Your flag is r4pg0d_em1n3m_3256gd62 in the usual format
 ```
 
-Flag : grepCTF{r4pg0d_em1n3m}
+Flag : grepCTF{r4pg0d_em1n3m_3256gd62}
 
 ---
 

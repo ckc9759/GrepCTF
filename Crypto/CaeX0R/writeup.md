@@ -38,7 +38,7 @@ values of i :
 ```PY
     c  = ['162', '177', '188', '169', '136', '187', '138', '145', '172', '187', '138', '145', '172', '190', '152', '156', '187', '195', '177', '142']
     for  i  in  range(1,1000):
-        print(i,"".join([chr(int(x)^i) for  x  in  x]))
+        print(i,"".join([chr(int(x)^i) for  x  in  c]))
         #this displays the c one by one XORed with 1 -> 1000
 ```
 

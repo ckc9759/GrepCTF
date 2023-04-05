@@ -21,6 +21,9 @@ use the following command on linux to get the flag or use an online base64 decod
 echo "Z3JlcENURntyM2ozY3RfaHVtNG4xdHlfZzBfYjRja190MF9tMG5rM30K" | base64 -d
 ```
 
+![image](https://user-images.githubusercontent.com/95117634/230113494-9bfed134-fd74-4999-a15c-1df9abf856c2.png)
+
+
 Flag : grepCTF{r3j3ct_hum4n1ty_g0_b4ck_t0_m0nk3}
 
 Thank you

@@ -40,7 +40,8 @@ I prèssèd `shift` walk, still thèy hèard me 😞. It isn't `Right`. --> Desc
 
 ---
 
-Now, the drive link won't work as u need a part 2 as well. So here is the role of that image ![Dancing.png](Dancing.png)/
+Now, the drive link won't work as u need a part 2 as well. So here is the role of that image ![Dancing.png](Dancing.png)
+
 The cipher is Flag Semaphore cipher (SEM A4 sounds the same), which will give a keyword - `SEMAFOUR`.
 
 Now the second part C2, it's encoded by a french cipher named `Vigenère`, decoding which gives the second part : `XOz7E/edit?usp=sharing`

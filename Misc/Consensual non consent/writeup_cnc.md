@@ -1,5 +1,7 @@
 ## Consensual non consent
 
+> Description - Believe it or not, this is real coding.
+
 > Author - @FusterCluck
 
 Entering the first three lines into google gives a result that the code is G Code, which is used to control automated machinery. Entering the code into a [G code](https://ncviewer.com/) viewer gives the flag.

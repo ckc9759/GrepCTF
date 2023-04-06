@@ -32,7 +32,7 @@ Click on GREPCTF, and you will find a hex code which translates to flag :
 
 Flag - GREP{W3lc0me_t0_GR3P_CTF}
 
-PS. didn't intend to make it hard !! Sorry
+PS. didn't intend to make it hard, next time straightforward flag :) !! Sorry
 
 ---
 

@@ -1,5 +1,9 @@
 ### Birdseed
 
+![image](https://user-images.githubusercontent.com/95117634/230303137-323105cd-7559-40ab-9b6a-bfae60d544a0.png)
+
+seed() function
+
 ---
 
 ### Solution

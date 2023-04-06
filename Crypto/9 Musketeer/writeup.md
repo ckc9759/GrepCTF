@@ -9,6 +9,8 @@ Author - `@ckc9759`
 
 FLAG FORMAT: `GREP{...}`
 
+![image](https://user-images.githubusercontent.com/95117634/230301904-e88ebd92-a6ea-4eb0-9319-4c04f25239b9.png)
+
 ---
 
 ### Solution 

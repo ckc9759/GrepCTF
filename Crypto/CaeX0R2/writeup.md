@@ -39,6 +39,42 @@ we find a text which resembles our Flag format GREP{} : -
 
 PANY{qnqn_R_U0en_G0A}
 
+Alternatively,
+
+```py
+from random import *
+c=['313', '296', '295', '304', '274', '280', '263', '280', '263', '310', '315', '310', '316', '345', '268', '263', '310', '302', '345', '296', '276']
+enc=[int(m) for m in c]
+flag=""
+a=1
+temp2=[]
+while a<=1000:
+   k=chr(enc[0]^a)
+   temp=""
+   if k.isalpha():
+      for e in enc:
+        temp+=chr(e^a)
+      if temp[4]=='{':
+        key=a
+        temp2.append(temp)
+   else:
+      print(f"Not found, key ={a}")
+   a+=1
+print(temp2)
+print(f"Key is {key}")
+z=temp2[0]
+print(z)
+ans1=""
+ans2=""
+print(chr((ord(z[0])-9)))
+for c in z:
+   ans1+=chr((ord(c)-9))
+   ans2+=chr((ord(c)+17))
+   
+print(ans1)
+print(ans2)
+```
+
 for our flag to be valid PANY must correspond to GREP, which is only possible with shift = 17 
 
 ### FLAG : GREP{hehe_I_L0ve_X0R}

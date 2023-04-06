@@ -49,7 +49,15 @@ Now find my other account on linkedIn,
 So, you get the second part as well and that leaves only the third part which is on `IG` as mentioned in hints too. `IG` is short for `Instagram`. Virat photo confirms
 that you are on the right track !!
 
-Covid batch is also mentioned, so you just had to visit the insta page of vkc1404 (ckc1404 replace vk first few letters) and there is the third
+Covid batch is also mentioned, so you just had to visit the insta page of vkc1404 (ckc1404 replace vk first few letters) and there is the first part of flag
+  
+![image](https://user-images.githubusercontent.com/95117634/230351135-e68f28dc-4782-4988-aacf-5995a558a656.png)
+
+ Flag : GREP{1_@m_Chaitanya_ckc1404_2020'batch}
+  
+---
+  
+Thank you
 
 
 
